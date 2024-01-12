@@ -1,0 +1,21 @@
+
+a {
+    padding-left: 15px;
+    color:white;
+}
+
+
+h2 {
+    box-sizing: border-box;
+    border: solid 1px black;
+    border-radius: 5px;
+    box-shadow: 7px 7px 5px #aaaaaa;
+    width: 300px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.header {
+    background-color: powderblue;
+    height: 100px;
+}
